@@ -9,7 +9,7 @@
 	<description>Libreria contenente classi di utilità e file di costanti comuni a vari progetti Mutui</description>
 
 	<modules>		
-		<module>CertMutuiINPS-modelSRC</module>
+		<module>CertMutuiINPSModelSRC</module>
 	</modules>
 	<build>
 		<plugins> 
